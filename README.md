@@ -1,6 +1,6 @@
 # About The Project
 Wind Nuker is a lightweight app made in Python using the library discord-webhook.
-#How to Install
+# How to Install
 Installation is suprisingly easy, you need only few things to run this!
 First, you need to install the latest python from https://www.python.org/
 After that you need to run your cmd or Windows Terminal and run the following command:pip install -r requirements.txt
