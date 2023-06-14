@@ -8,7 +8,7 @@ Its important to run this command in the same folder as all the files in this re
 If you did all correctly then you can proceed to execute the code with command: python main.py
 Again, its important to be run in the same folder as this repository.
 #Screenshot
-![image](https://user-images.githubusercontent.com/101731277/224739371-20289964-662a-4239-a5a1-ec71e10b0113.png)
+
 
 
 Happy Using!
